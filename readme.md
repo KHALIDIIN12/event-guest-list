@@ -21,3 +21,7 @@ this is a simple web app that lets you manage a guest list for an event.you can 
 |---index.js
 |---readme.md
 
+## 🔗 Live Site
+
+[Click here to view the live Event Guest List Manager](https://khalidiin12.github.io/event-guest-list/)
+
